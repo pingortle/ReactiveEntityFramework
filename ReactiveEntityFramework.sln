@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxEF", "RxEF\RxEF.csproj", "{4863D1E7-701F-40C7-8F4E-181320F1D12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxEF.Portable", "RxEF.Portable\RxEF.Portable.csproj", "{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{4863D1E7-701F-40C7-8F4E-181320F1D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4863D1E7-701F-40C7-8F4E-181320F1D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4863D1E7-701F-40C7-8F4E-181320F1D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
