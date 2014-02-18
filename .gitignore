@@ -50,6 +50,19 @@ build/
 [Bb]in/
 [Oo]bj/
 
+#################
+## MonoDevelop
+#################
+
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
