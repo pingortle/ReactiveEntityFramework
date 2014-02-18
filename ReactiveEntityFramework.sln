@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxEF", "RxEF\RxEF.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxEF.Portable", "RxEF.Portable\RxEF.Portable.csproj", "{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxEF.Test", "RxEF.Test\RxEF.Test.csproj", "{EDAA9099-7764-43EF-B87D-5EBEC442F796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,13 @@ Global
 		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5FDE2D-AB2D-4F07-9C5A-CE7A175A7991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAA9099-7764-43EF-B87D-5EBEC442F796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA9099-7764-43EF-B87D-5EBEC442F796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA9099-7764-43EF-B87D-5EBEC442F796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA9099-7764-43EF-B87D-5EBEC442F796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RxEF\RxEF.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
